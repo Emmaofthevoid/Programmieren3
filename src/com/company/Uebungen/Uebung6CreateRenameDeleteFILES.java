@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class Uebung6 {
+public class Uebung6CreateRenameDeleteFILES {
 
     public static void createFiles(File directory) throws IOException {
         for (int i = 0; i < 10; i++) {

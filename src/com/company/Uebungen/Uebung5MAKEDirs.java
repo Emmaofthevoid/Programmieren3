@@ -3,7 +3,7 @@ package com.company.Uebungen;
 import java.io.File;
 import java.util.Scanner;
 
-public class Uebung5 {
+public class Uebung5MAKEDirs {
 
     public static void makeDirs () {
         Scanner scanner = new Scanner(System.in);

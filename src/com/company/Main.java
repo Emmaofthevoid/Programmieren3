@@ -1,17 +1,9 @@
 package com.company;
 
-import com.company.Uebungen.Uebung1;
-import com.company.Uebungen.Uebung2;
-
 import java.io.File;
 import java.io.IOException;
 
-import static com.company.Uebungen.Uebung1.fileInfo;
-import static com.company.Uebungen.Uebung2.listf;
-import static com.company.Uebungen.Uebung2.printFilesAndDirectories;
-import static com.company.Uebungen.Uebung3.listFilesAndDirectoriesWithSubFolders;
-import static com.company.Uebungen.Uebung5.makeDirs;
-import static com.company.Uebungen.Uebung6.*;
+import static com.company.Uebungen.Uebung6CreateRenameDeleteFILES.*;
 
 
 public class Main {

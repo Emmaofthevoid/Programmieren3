@@ -1,0 +1,3 @@
+Product: Name: Kekse' price: 5.0 productCategory: Süßigkeiten'
+Product: Name: Schocko' price: 10.0 productCategory: Süßigkeiten'
+Product: Name: Sojamilch' price: 7.0 productCategory: Non Dairy'

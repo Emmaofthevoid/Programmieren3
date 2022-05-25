@@ -2,7 +2,7 @@ package com.company.Uebungen;
 
 import java.io.*;
 
-public class Uebung7 {
+public class Uebung7FILEREADER_BUFFEREDREADER {
     public static void main(String[] args) throws IOException {
         File file = new File("test.txt");
         FileReader fileReader = new FileReader(file);

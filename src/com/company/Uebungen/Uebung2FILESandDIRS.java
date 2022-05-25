@@ -2,7 +2,7 @@ package com.company.Uebungen;
 
 import java.io.File;
 
-public class Uebung2 {
+public class Uebung2FILESandDIRS {
 
     public static void printFilesAndDirectories(String filedir) {
         File root = new File(filedir);

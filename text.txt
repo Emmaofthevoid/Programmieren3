@@ -1,0 +1,5 @@
+Zeile1
+Zeile2
+ohneLN
+ohneLN
+This is a JAVA program with 100 MBThis is a JAVA program with 100 MB

@@ -2,7 +2,7 @@ package com.company.Uebungen;
 
 import java.io.File;
 
-public class Uebung1 {
+public class Uebung1METHODS {
 
     public static void fileInfo (File file) {
         System.out.println("Does this file exist? " + file.exists());
