@@ -1,4 +1,4 @@
-package com.company.Uebungen;
+package com.company.TextReader.Uebungen;
 
 import java.io.BufferedReader;
 import java.io.FileWriter;

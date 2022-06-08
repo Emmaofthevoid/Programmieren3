@@ -1,4 +1,4 @@
-package com.company.Uebungen.Uebung11;
+package com.company.TextReader.Uebungen.Uebung11;
 
 public class Product {
     String productName;

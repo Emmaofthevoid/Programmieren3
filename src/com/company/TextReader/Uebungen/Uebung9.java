@@ -1,6 +1,5 @@
-package com.company.Uebungen;
+package com.company.TextReader.Uebungen;
 
-import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
