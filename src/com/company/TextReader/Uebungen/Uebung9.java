@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 public class Uebung9 {
+    //Schreiben Sie ein Programm, welches eine Textdatei mittels Filewriter und Printwriter erstellt.
+
     public static void main(String[] args) throws IOException {
         FileWriter fileWriter = new FileWriter("text.txt");
         PrintWriter printWriter = new PrintWriter(fileWriter);

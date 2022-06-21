@@ -6,6 +6,15 @@ public class Uebung8 {
 
     public static void main(String[] args) throws IOException {
 
+        //Schreiben Sie ein Programm, das zeilenweise Tastatureingaben auf die Konsole schreibt, bis das Wort „STOP“ eingegeben wird.
+        //
+        //Verwenden Sie dazu den InputStream System.in
+        //
+        //Verwenden Sie weiters die Klassen:
+        //
+        //InputStreamReader und BufferedReader
+
+
         //ready to receive use input
         InputStreamReader stream = new InputStreamReader(System.in);
 
