@@ -33,7 +33,7 @@ public class Uebung17ProductManager extends EOFException {
         System.out.println("Objects were added in the array");
     }
 
-    public void load(String path)  {
+    public void load(String path) throws IOException, ClassNotFoundException {
         FileInputStream fileInputStream = null;
         try {
             fileInputStream = new FileInputStream(path);
