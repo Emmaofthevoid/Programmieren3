@@ -1,5 +1,7 @@
 package com.company.Threads.Uebung3Alternate.Uebung3;
 
+import java.util.ArrayList;
+
 public class CounterMain {
     public static void main(String[] args) {
         Counter c1 = new Counter();

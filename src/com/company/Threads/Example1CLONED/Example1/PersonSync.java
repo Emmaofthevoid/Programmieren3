@@ -1,6 +1,6 @@
 package com.company.Threads.Example1CLONED.Example1;
 
-public class Person implements Runnable {
+public class PersonSync implements Runnable {
 
     private boolean isRunning = true;
 
@@ -10,7 +10,7 @@ public class Person implements Runnable {
 
     private String name;
 
-    public Person(String name) {
+    public PersonSync(String name) {
         this.name = name;
     }
 

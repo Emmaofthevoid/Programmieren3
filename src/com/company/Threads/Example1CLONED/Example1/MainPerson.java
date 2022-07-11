@@ -2,8 +2,8 @@ package com.company.Threads.Example1CLONED.Example1;
 
 public class MainPerson {
     public static void main(String[] args) {
-        Person person1 = new Person("Person 1");
-        Person person2 = new Person("Person 2");
+        PersonSync person1 = new PersonSync("Person 1");
+        PersonSync person2 = new PersonSync("Person 2");
         Thread t1 = new Thread(person1);
         Thread t2 = new Thread(person2);
 
