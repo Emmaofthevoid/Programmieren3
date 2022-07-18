@@ -1,4 +1,4 @@
-package FileIO;
+package com.company.FileIO;
 
 public class AddressExportFileAlreadyExistsException extends Throwable{
     public AddressExportFileAlreadyExistsException(String s) {
