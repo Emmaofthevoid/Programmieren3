@@ -3,7 +3,7 @@ package com.company;
 import java.io.File;
 import java.io.IOException;
 
-import static com.company.TextReader.Uebungen.Uebung6CreateRenameDeleteFILES.*;
+import static com.company.FileIO.FileReaderUeb.Uebung6CreateRenameDeleteFILES.*;
 
 
 public class Main {
