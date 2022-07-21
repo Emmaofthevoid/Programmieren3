@@ -39,6 +39,7 @@ public class SocketWorker implements Runnable {
                     bufferedWriter.flush();
                 } else if (command.equals("PORT")) {
                     bufferedWriter.write("Remote port : " + socket.getPort());
+                    bufferedWriter.newLine();
                     bufferedWriter.write("Port: " + socket.getLocalPort());
                     bufferedWriter.newLine();
                     bufferedWriter.flush();
